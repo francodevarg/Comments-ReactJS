@@ -1,3 +1,8 @@
+## Dependencies
+This project needs the following packages.
+> - React-bootstrap. https://react-bootstrap.github.io/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
