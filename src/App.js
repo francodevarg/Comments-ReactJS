@@ -1,15 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Menu from './components/Menu';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-          <h2>Comments</h2>
-          <p> Iniciamos el proyecto</p>
-      </header>
+      <Menu></Menu>
     </div>
   );
 }
